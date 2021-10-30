@@ -1,5 +1,13 @@
 # [Invertic's Trance Generator](http://aapee.kapsi.fi/trance-generator)
 
+## Nice seeds
+
+- 5b065abd
+- 0a1371f5
+- b2d24de4
+- 9d804bb2
+- 84bdb029
+
 ## Roadmap
 * ~~multi-osc lead synth~~
 * breakdown fx sweeps
